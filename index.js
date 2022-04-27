@@ -1,7 +1,7 @@
-const questions = Array.from(document.querySelectorAll(".question-block"));
+const questions = document.querySelectorAll(".faq__question-block");
 
-questions.forEach((questionBlock) => {
-  questionBlock.addEventListener("click", (event) => {
-    event.currentTarget.classList.toggle("question-block--active");
+questions.forEach((question) => {
+  question.addEventListener("click", (event) => {
+    event.currentTarget.classList.toggle("faq__question-block--active");
   });
 });
