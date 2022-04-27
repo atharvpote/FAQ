@@ -20,7 +20,7 @@ html {
 }
 
 body {
-  height: 100%;
+  min-height: 100%;
   margin: 0;
   background-image: linear-gradient(var(--soft-blue), var(--soft-violet));
   font-family: "Kumbh Sans", sans-serif;
