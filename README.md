@@ -22,8 +22,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Profile Card Component Github](https://github.com/atharvpote/FAQ)
-- Live Site URL: [Profile Card Component](https://atharvpote.github.io/FAQ/)
+- Solution URL: [FAQ Github](https://github.com/atharvpote/FAQ)
+- Live Site URL: [FAQ](https://atharvpote.github.io/FAQ/)
 
 ## My process
 
